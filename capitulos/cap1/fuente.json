@@ -1,0 +1,131 @@
+{
+  "id": "cap1",
+  "titulo": "El Anti-Edipo, capítulo primero",
+  "subtitulo": "Las máquinas deseantes — ensayo de lectura y guía de escucha",
+  "drive": {
+    "fileId": "13nWNAxmRYIWZuXzP-sLTOr6groXAhJhQ",
+    "nombre": "ensayo-antiedipo-cap1.mp3"
+  },
+  "piezas": [
+    { "archivo": "transcripcion/000.txt", "duracion": 1898.976 },
+    { "archivo": "transcripcion/001.txt", "duracion": 1899.0 },
+    { "archivo": "transcripcion/002.txt", "duracion": 1899.0 },
+    { "archivo": "transcripcion/003.txt", "duracion": 1899.0 },
+    { "archivo": "transcripcion/004.txt", "duracion": 1899.0 },
+    { "archivo": "transcripcion/005.txt", "duracion": 1409.794 }
+  ],
+  "indice": [
+    { "titulo": "Nota preliminar", "pieza": 0, "ancla": "Una nota antes de empezar" },
+    { "titulo": "Primera parte. Cómo se hizo el Anti-Edipo", "pieza": 0, "ancla": "Primera parte.", "hijos": [
+      { "titulo": "Dos mundos en 1968", "pieza": 0, "ancla": "Empecemos por los dos mundos" },
+      { "titulo": "Jean-Pierre Muyard, el iniciador", "pieza": 0, "ancla": "Lo que une esos dos mundos" },
+      { "titulo": "El primer encuentro (junio de 1969)", "pieza": 0, "ancla": "metió a Guatari y a François" },
+      { "titulo": "Las cartas de 1969", "pieza": 0, "ancla": "Antes de verse se habían escrito" },
+      { "titulo": "El método de escritura", "pieza": 0, "ancla": "Ahora el método" },
+      { "titulo": "La clínica y los etnólogos", "pieza": 0, "ancla": "Dos aportes más completan" },
+      { "titulo": "Lacan, el ausente presente", "pieza": 0, "ancla": "Hay que decir una palabra sobre Lacan" },
+      { "titulo": "El final del manuscrito", "pieza": 0, "ancla": "En agosto de 1971" },
+      { "titulo": "La recepción", "pieza": 0, "ancla": "Unas palabras sobre la recepción" },
+      { "titulo": "El balance de los autores", "pieza": 0, "ancla": "Cierro la historia con el balance" }
+    ]},
+    { "titulo": "Umbral. Antes de la página 11", "pieza": 0, "ancla": "Umbral, ¿qué saber", "hijos": [
+      { "titulo": "1. No es un libro contra el psicoanálisis", "pieza": 0, "ancla": "Primera, el anti Edipo no es" },
+      { "titulo": "2. No celebra la esquizofrenia clínica", "pieza": 0, "ancla": "Segunda, el el libro no celebra" },
+      { "titulo": "3. Deseo no es carencia", "pieza": 0, "ancla": "Tercera. Cuando el libro dice deseo" },
+      { "titulo": "4. La máquina no es una metáfora", "pieza": 0, "ancla": "Cuarta. Cuando el libro dice" },
+      { "titulo": "Tres tradiciones: Freud, Marx, la filosofía", "pieza": 0, "ancla": "Conviene además tener presentes tres tradiciones" },
+      { "titulo": "Arquitectura del libro y del capítulo", "pieza": 0, "ancla": "Una última orientación sobre la arquitectura" }
+    ]},
+    { "titulo": "Sección 1. La producción deseante", "paginas": "11–18", "pieza": 1, "ancla": "Segunda parte. El capítulo primero", "hijos": [
+      { "titulo": "El cuadro de Lindner", "pieza": 1, "ancla": "Antes incluso de la primera frase hay una imagen" },
+      { "titulo": "«Ello funciona en todas partes»", "pieza": 1, "ancla": "La primera frase es célebre" },
+      { "titulo": "Schreber", "pieza": 1, "ancla": "Aquí hay que detenerse en Schreber" },
+      { "titulo": "El paseo de Lenz", "pieza": 1, "ancla": "Sigue en la misma página 11, el segundo caso" },
+      { "titulo": "Beckett: Molloy, Malone, El innombrable", "pieza": 1, "ancla": "El tercer caso de la primera página" },
+      { "titulo": "Proceso, primer sentido", "pieza": 1, "ancla": "Primer sentido." },
+      { "titulo": "Proceso, segundo sentido (Marx, 1844)", "pieza": 1, "ancla": "Segundo sentido de proceso" },
+      { "titulo": "Proceso, tercer sentido", "pieza": 1, "ancla": "Tercer sentido de proceso" },
+      { "titulo": "Primera síntesis: la conexión", "pieza": 1, "ancla": "entra la primera síntesis" },
+      { "titulo": "El objeto parcial (Freud, Klein, Lacan)", "pieza": 1, "ancla": "Aquí conviene presentar el objeto parcial" },
+      { "titulo": "La mesa de Michaux", "pieza": 1, "ancla": "Aquí viene uno de los ejemplos más bellos" },
+      { "titulo": "Entra el cuerpo sin órganos", "pieza": 1, "ancla": "El final de la sección páginas 16 y 17" },
+      { "titulo": "Artaud y la definición del cuerpo sin órganos", "pieza": 1, "ancla": "Esa letanía está en para acabar" }
+    ]},
+    { "titulo": "Sección 2. El cuerpo sin órganos", "paginas": "18–24", "pieza": 1, "ancla": "Sección dos, el cuerpo sin órganos", "hijos": [
+      { "titulo": "Repulsión: represión originaria y máquina paranoica", "pieza": 1, "ancla": "Creemos que este es el sentido de la represión" },
+      { "titulo": "Paralelo con la producción social: el socius", "pieza": 2, "ancla": "A partir de la página 18" },
+      { "titulo": "El capital como cuasi causa", "pieza": 2, "ancla": "El capital es el cuerpo sin órganos del capitalista" },
+      { "titulo": "Atracción: la máquina milagrosa", "pieza": 2, "ancla": "Vuelta al deseo, página 20" },
+      { "titulo": "Segunda síntesis: la disyunción inclusiva («ya… ya»)", "pieza": 2, "ancla": "Entonces, segunda sin" },
+      { "titulo": "Numen y el Dios del silogismo disyuntivo", "pieza": 2, "ancla": "La página 21 introduce también los nombres" },
+      { "titulo": "¿Edipo, exigencia o consecuencia?", "pieza": 2, "ancla": "Pero objetan lo que Freud añade" },
+      { "titulo": "El código del esquizo: Artaud y Wölfli", "pieza": 2, "ancla": "La página 23 contiene dos versos" },
+      { "titulo": "Lecturas: Holland y Buchanan", "pieza": 2, "ancla": "Una nota mía sobre lectura" }
+    ]},
+    { "titulo": "Sección 3. El sujeto y el goce", "paginas": "24–29", "pieza": 2, "ancla": "Sección tres, el sujeto", "hijos": [
+      { "titulo": "Un sujeto sin identidad", "pieza": 2, "ancla": "La sección empieza recapitulando" },
+      { "titulo": "Tercera síntesis: la voluptas", "pieza": 2, "ancla": "Tercera transformación energética" },
+      { "titulo": "La máquina célibe", "pieza": 2, "ancla": "A esa tercera máquina le dan el nombre" },
+      { "titulo": "Cantidades intensivas", "pieza": 2, "ancla": "Qué produce la máquina se vive" },
+      { "titulo": "«Yo siento»", "pieza": 2, "ancla": "Aquí viene una tesis sobre la experiencia" },
+      { "titulo": "Kant, las intensidades y el huevo", "pieza": 2, "ancla": "La teoría de las intensidades en la página 27" },
+      { "titulo": "Dos preguntas pendientes", "pieza": 2, "ancla": "La página 27 y 28 vuelve sobre la psiquiatría" },
+      { "titulo": "Vía breve y vía compleja", "pieza": 2, "ancla": "Luego resume todo este movimiento vital" },
+      { "titulo": "Nietzsche leído por Klossowski", "pieza": 3, "ancla": "El final de la sección, páginas 28 y 29" },
+      { "titulo": "Balance de la primera mitad", "pieza": 3, "ancla": "Con esto se cierra la primera mitad" }
+    ]},
+    { "titulo": "Sección 4. Psiquiatría materialista", "paginas": "29–42", "pieza": 3, "ancla": "Sección 4. psiquiatría materialista", "hijos": [
+      { "titulo": "Primer movimiento: crítica de la psiquiatría", "paginas": "29–32", "pieza": 3, "ancla": "Primer movimiento, páginas 29 a 32", "hijos": [
+        { "titulo": "Clérambault, el Feuerbach de la psiquiatría", "pieza": 3, "ancla": "Empieza con Gaetan" },
+        { "titulo": "Kraepelin, Bleuler, Binswanger", "pieza": 3, "ancla": "La crítica de lo que llaman la fórmula trinitaria" },
+        { "titulo": "Fábrica contra teatro", "pieza": 3, "ancla": "Y de ahí la página 31, que es la más citada" },
+        { "titulo": "Marx, Jaspers y el proceso", "pieza": 3, "ancla": "La página 31 y 32 cierra el primer movimiento" }
+      ]},
+      { "titulo": "Segundo movimiento: el deseo como carencia", "paginas": "32–35", "pieza": 3, "ancla": "Segundo movimiento, páginas 32 a 35", "hijos": [
+        { "titulo": "Platón y Kant", "pieza": 3, "ancla": "El primer paso de la división platónica" },
+        { "titulo": "Si el deseo produce, produce lo real", "pieza": 3, "ancla": "Y entonces, en la página 33, la tesis en positivo" },
+        { "titulo": "Lacan, nota 23", "pieza": 3, "ancla": "Hay una nota, la 23" },
+        { "titulo": "La carencia organizada", "pieza": 3, "ancla": "Y la política sobre la carencia" }
+      ]},
+      { "titulo": "Tercer movimiento: la identidad de las dos producciones", "paginas": "35–39", "pieza": 3, "ancla": "Tercer movimiento, páginas 35 a 39", "hijos": [
+        { "titulo": "Spinoza y Reich: la servidumbre deseada", "pieza": 3, "ancla": "¿Por qué combaten los hombres por su servidumbre" },
+        { "titulo": "El fantasma de grupo", "pieza": 3, "ancla": "El fantasma nunca es individual" },
+        { "titulo": "Las dos diferencias de régimen", "pieza": 3, "ancla": "Páginas 37 a 39. Las dos diferencias de régimen" },
+        { "titulo": "Las tres represiones", "pieza": 4, "ancla": "La distinción entre tres represiones" },
+        { "titulo": "Homo natura, homo historia: la autocorrección", "pieza": 4, "ancla": "la autocorrección que impide" }
+      ]},
+      { "titulo": "Cuarto movimiento: capitalismo y esquizofrenia", "paginas": "39–42", "pieza": 4, "ancla": "Cuarto movimiento, páginas 39 a 42", "hijos": [
+        { "titulo": "Codificar, sobrecodificar, descodificar", "pieza": 4, "ancla": "Tres máquinas sociales en una línea" },
+        { "titulo": "El límite esquizofrénico", "pieza": 4, "ancla": "No cesa de aproximarse a su límite" },
+        { "titulo": "Neurótico, perverso, esquizo", "pieza": 4, "ancla": "Tres figuras definidas no por las pulsiones" },
+        { "titulo": "Dos observaciones de comentario", "pieza": 4, "ancla": "Dos observaciones de comentario" }
+      ]}
+    ]},
+    { "titulo": "Sección 5. Las máquinas", "paginas": "42–47", "pieza": 4, "ancla": "Sección 5. Las máquinas", "hijos": [
+      { "titulo": "Primer corte: extracción", "paginas": "42–43", "pieza": 4, "ancla": "Primer corte, páginas 42 y 43" },
+      { "titulo": "Joey, el niño máquina", "pieza": 4, "ancla": "En la página 43 entra Joey" },
+      { "titulo": "Segundo corte: separación", "paginas": "44–45", "pieza": 4, "ancla": "Segundo corte, páginas 44 y 45" },
+      { "titulo": "Lacan y el código del inconsciente", "pieza": 4, "ancla": "Pertenece a Lacan el descubrimiento" },
+      { "titulo": "La orquídea y la cadena de Markov", "pieza": 4, "ancla": "Luego dos referencias científicas" },
+      { "titulo": "Monakow y Mourgue", "pieza": 4, "ancla": "Y en la página 46, una referencia neurológica" },
+      { "titulo": "Tercer corte: residuo", "paginas": "46–47", "pieza": 4, "ancla": "Tercer corte, páginas 46 y 47" },
+      { "titulo": "Recapitulación de los tres cortes", "pieza": 4, "ancla": "La recapitulación de la página 47" }
+    ]},
+    { "titulo": "Sección 6. El todo y las partes", "paginas": "47–54", "pieza": 4, "ancla": "Sección 6. El todo y las partes", "hijos": [
+      { "titulo": "Primero: la ontología de la multiplicidad", "paginas": "47–49", "pieza": 4, "ancla": "Primero la ontología" },
+      { "titulo": "Proust y la transversalidad", "pieza": 5, "ancla": "Página 48 y 49. Proust" },
+      { "titulo": "Segundo: Melanie Klein", "paginas": "49–51", "pieza": 5, "ancla": "Segundo, páginas 49 a 51" },
+      { "titulo": "El caso Dick", "pieza": 5, "ancla": "Dick es un niño de 4 años" },
+      { "titulo": "Tercero: Jung, el niño y la familia", "paginas": "51–52", "pieza": 5, "ancla": "Tercero, página 51 y 52" },
+      { "titulo": "Cuarto: el lugar de los padres", "paginas": "52–53", "pieza": 5, "ancla": "Cuarto. Páginas 52" },
+      { "titulo": "Quinto: el cierre que mira hacia adelante", "paginas": "53–54", "pieza": 5, "ancla": "Quinto, páginas 53 y 54" },
+      { "titulo": "Foucault y la última frase del capítulo", "pieza": 5, "ancla": "Y Foucault, última referencia del capítulo" }
+    ]},
+    { "titulo": "Cierre. Qué queda abierto", "pieza": 5, "ancla": "No, cierre.", "hijos": [
+      { "titulo": "Lo que el capítulo ha establecido", "pieza": 5, "ancla": "Ha afirmado que el inconsciente produce" },
+      { "titulo": "Lo que responden los capítulos 2 a 4", "pieza": 5, "ancla": "Y ha dejado explícitamente sin responder" },
+      { "titulo": "Objeción: la carencia en la experiencia singular", "pieza": 5, "ancla": "Para terminar" },
+      { "titulo": "Segunda objeción: naturalismo e historicismo", "pieza": 5, "ancla": "Y una segunda objeción" }
+    ]}
+  ]
+}

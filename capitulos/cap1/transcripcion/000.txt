@@ -1,0 +1,218 @@
+[00:00]
+El anti-Edipo. Capítulo primero. Las máquinas deseantes. Ensayo de lectura y guía de escucha. Una nota antes de empezar. Este ensayo acompaña la lectura del capítulo primero de El anti-Edipo. En la edición de Paidos traducida por Francisco Monge, que es la que usa el lector web del taller. Cada vez que mencione una página, será una página de esa edición.
+
+[00:28]
+Cuando cite el texto, diré cite antes y fin de la cita después, cuando recurra a la biografía cruzada de François II, lo diré con su nombre. La versión que tengo a mano es la edición inglesa. A 12 o a los entrevistados por 12 son traducciones mías.
+
+[00:47]
+Y cuando diga algo que no puedo respaldar con el libro ni con las fuentes del repositorio, lo marcaré con fórmulas como como hasta donde sé o la lectura habitual sostiene.
+
+[01:01]
+Esa distinción entre lo que el texto dice, lo que sus comentaristas dicen y lo que yo interpreto es la regla del ensayo entero y conviene tenerla en el oído desde ahora, porque el Antiedipo es un libro sobre el que se ha dicho mucho más de lo que dice. Primera parte. ¿Cómo se hizo el Antiedipo? El Antiedipo apareció en marzo de 1972 en edición de Minuit.
+
+[01:31]
+Con el subtítulo Capitalismo y esquizofrenia. Primer volumen de una obra en dos partes cuya segunda entrega 1000 mecetas llegaría 8 años después. Lo firman dos nombres.
+
+[01:42]
+Gilles de los, filósofo, profesor en la Universidad Experimental de Vincennes, autor ya de una docena de libros y Félix Guatari, psicoanalista militante formado con Lacan y una de las figuras centrales de la clínica psiquiátrica de la borde en el Valle de Loira.
+
+[02:06]
+Para entender el libro conviene saber cómo esos dos nombres llegaron a juntarse, porque el modo en que se escribió explica bastante de cómo está escrito. Empecemos por los dos mundos, que en 1968 estaban muy separados. Dos se lo dice así en la introducción de su biografía. En 1968 de Leus. Ihuatani habitaban universos muy distintos. Y había pocas posibilidades de que llegaran a encontrarse.
+
+[02:36]
+De los tenía entonces 40 y 3 años y era un filósofo reconocido. Había hecho carrera en la historia de la filosofía con monografías sobre Hume, Nietzsche, Kant, Bergson y Spinoza y en 1969 publicó los dos libros que hoy se consideran su obra propia. Diferencia y repetición, que era su tesis doctoral y lógica del sentido.
+
+[03:06]
+No se subraya que ese era el momento en que la filosofía eh se sentía acosada por el estructuralismo y sobre todo por el lacanismo, este que estaba en la vanguardia del estructuralismo. El psicoanálisis ambiente dice des desafiaba a la filosofía y cuando Deleuze conoció a Guattari tuvo una ocasión excelente de responder.
+
+[03:33]
+Watari, por su parte, tenía 38 años en 1968. Y no era universitario. Había estudiado farmacia sin terminar, había pasado por la filosofía en la Sorbona y sobre todo había encontrado muy joven a dos hermanos que decidieron su vida.
+
+[03:54]
+Fernan Uri, pedagogo y Jean Uri, psiquiatra, que en 1900 953 fundó la clínica de Laborde en un castillo en ruinas del Loire Cher.
+
+[04:07]
+Guatari vivió allí buena parte de su vida adulta, dirigiendo grupos, reorganizando el trabajo de pacientes y personal, inventando lo que llamaba transversalidad y al mismo tiempo militando en la izquierda no comunista, en la oposición de izquierda y en una Federación de grupos de estudio e investigación institucional.
+
+[04:34]
+Era además analizante y discípulo de Lacan, miembro de la École Freudienne de París desde su fundación en 1964 y según 12 tan devoto de Lacan en sus años de Sorbona que sus amigos lo llamaban Lacan en los pasillos. Lo que une esos dos mundos tiene nombre propio.
+
+[04:58]
+Se llama Jean-Pierre Pierre Mullaert, médico psiquiatra de la borde y el propio libro lo reconoce. La dedicatoria de el anti-Edipo, según 12, dice, "A Jean Pierre." El verdadero culpable, el líder, el iniciador de esta empresa perversa.
+
+[05:18]
+Muyar había conocido a Guatari en 1964 en un seminario de la oposición de izquierda y describía ese encuentro como una vibración casi fisiológica, un proceso de conexión. Y había conocido a De los en Lyon, donde De los enseñaba en los años 60 a través de su libro sobre Sachert Masoch de 1967. 12 coge un testimonio de Mullah que vale la pena retener.
+
+[05:46]
+De los le decía que hablaba de psicosis eh psicosis y de locura, pero que no sabía nada de eso desde dentro. Y a la vez dice Mullah, De los tenía fobia a los enfermos mentales y no habría podido pasar una hora en la borde. Retengamos esa asimetría porque el libro la lleva dentro. Uno de los autores vivía entre esquizofrénicos.
+
+[06:15]
+El otro los conocía por los textos. En 1969, Murray, según su propio relato, estaba cansado del activismo desenfrenado de Guatari en La Borde, que deshacía grupos para formar otros nuevos sin parar y que decía querer escribir, pero no escribía nunca. Decidió hacer que se conocieran.
+
+[06:41]
+En junio de 1000 1969 metió a Guatari y a François Forqué en su coche y los llevó a San Leonar de Noblat en el limusín donde de los convalecía. Un año antes le habían extirpado un pulmón tuberculoso y desde entonces arrastró dificultades respiratorias crónicas. La conexión dice 12 fue inmediata. Guatari llegaba con un texto recién terminado.
+
+[07:11]
+Una referencia titulada Máquina y Estructura, que iba a dar en la escuela de Lacan y que se apoyaba en diferencia e inferencia y representó. Ese texto importa y 12 lo subraya. Watari había sido discípulo de Lacan y empezaba a posicionarse como su interlocutor, pero Lacan prefería el grupo de la rue Dum, Jack Alan Miller y Jean-Claude Milner.
+
+[07:42]
+Igual se sentía dejado de lado. 12, cita a Guattari. Cuando conocía de los en 1969 aproveché de verdad la ocasión. Había avanzado en mi discusión con Lacan sobre dos cuestiones. La triangulación edípica y el reduccionismo de su tesis sobre el significante. Paso paso a paso, el resto se disolvió como un diente podrido.
+
+[08:09]
+Es decir, las dos objeciones que organizan El antiedipo, Edipo y el significante ya estaban en Guatari antes de conocer a Delous. Antes de verse se habían escrito. 12 reproduce cartas de la primavera de 1969. El 5 de abril Guatari le escribe a Delous agradeciendo la atención que ha prestado a sus artículos.
+
+[08:36]
+Dice estar leyendo lógica del sentido con mucho cuidado y concluir que sus puntos de vista son profundamente parecidos y confiesa su bloqueo para escribir. No trabaja ni lee teoría de manera sostenida. Tiene miedo de retomar lo que dejó colgado. Y además está en medio de un divorcio con tres hijos. La clínica y los grupos militantes.
+
+[09:03]
+En mayo de los le responde que también él siente que se han hecho amigos antes de conocerse y le insiste, "Usted inventa y usa ideas muy nuevas, complicadas e importantes, desarrolladas a partir de la investigación práctica del laborde. Por ejemplo, el fantasma de grupo o la tran que permite superar la vieja dualidad entre inconsciente personal e inconsciente colectivo.
+
+[09:33]
+Esas ideas hay que elaborarlas teóricamente y escribir escribir no es que haga cuando las cosas van bien sino manera modesta pero activa de salir un momento de la batalla. De esa insistencia salió de paso otro libro. Psicoanálisis y transversalidad, la recopilación de artículos de Guattari que apareció también en 1972 con prólogo de De Luz.
+
+[10:01]
+Inmediatamente después del primer encuentro, De Loes escribe fijando las reglas. 12, las cita. Dejar toda cortesía pero no las formas de la amistad que permiten decirse ya verá, no entiendo, eso está mal, incluir a Mullard en la correspondencia y ninguna regularidad impuesta. En esa misma carta de Lowes resume lo que ha entendido de la conversación.
+
+[10:31]
+Que las formas de la psicosis no evolucionan en una triangulación erípica o al menos no necesariamente ni como se pretende. Que es difícil salir del familiarismo del psicoanálisis con su papá mamá. Que la cuestión es mostrar como en la psicosis eh psicosis, por ejemplo, mecanismos socioeconómicos pueden actuar de directamente sobre el inconsciente.
+
+[10:57]
+Y recuerda que Guatari había dicho que los locos no crean sosamente un mundo, crean también una economía política. Añade que hay dos ideas de Guatari que todavía no conoce bien sobre las máquinas y que le parecen la clave para entender ese efecto directo de lo social sobre el inconsciente psicótico. Y concluye con una frase que ya es casi un programa del libro, que al inconsciente se le atribuye una imagen moral.
+
+[11:27]
+Para decir que es inmoral o para decir que la moral es inconsciente. Superyó, ley, transgresión. Y que a él eso no le funciona. El inconsciente no es religioso. No hay ley ni transgresión.
+
+[11:44]
+Watari contesta el 19 de julio con la idea de una máquina que expresa metonímicamente la máquina de la sociedad industrial y el 25 de julio envía notas que formula la ecuación del título. El capitalismo es esquizofrenia, en la medida en que la estructura social no puede soportar la producción de esquizos. De Estamos en julio de 1960. Faltan 2 años y medio para terminar el libro.
+
+[12:14]
+Pero el título, el adversario y las dos herramientas, la máquina y la antiproducción ya están sobre la mesa. En agosto de 1969 del fue a Duisón, el castillo cerca de la borde donde vivía Guatari. Y allí empezó el trabajo propiamente dicho. Dos se cita una carta de François Furqué del 19 de agosto que describe el ambiente.
+
+[12:41]
+Mucha gente alrededor, Rostain, Liane, Hervé, Muyar, todos zumbando en torno a la escena primaria cotidiana en la que Félix y Delos crean intensamente. De los toma notas, las ajusta, critica, conecta el trabajo de Félix con la historia de la filosofía. En una palabra, funciona. Mullaert se retiró pronto, cita 12.
+
+[13:11]
+Había hecho mi trabajo. Mephisto Ahora el método, que es lo que más importa para leer el libro. 12 lo describe con bastante detalle a partir de los testimonios de Donati, la compañera de Watari en esos años. Y de los propios autores, en primera regla, nada de grupos. Watari había trabajado siempre en grupo y habría querido que participaran sus amigos del Serfi, el centro de investigación que acababa de fundar.
+
+[13:42]
+De los detestaba las discusiones interminables y solo podía trabajar con dos o tres personas como máximo. El primer libro dice dos. Se escribió sobre todo por cartas. Segunda regla, impuesta por los de los como terapia contra el bloqueo de Guatari. Poner las ideas en papel sin releer ni corregir y enviar por correo el borrador del día. Guatari obedeció.
+
+[14:11]
+Se encerraba en su despacho hasta las 4 de la tarde, pasaba por labor de hacer una ronda rápida y volvía a Dusizon. Donati le llevaba el almuerzo porque no paraba para comer. Jean Uri se sentía abandonado. Tercera regla, la división del trabajo. Watari enviaba sus textos y De Leus lo reescribía para la versión final. 12 recoge una fórmula que circulaba entre ellos.
+
+[14:39]
+Félix era el minero que extraía el diamante y Gil el que lo pulía. Se veían además los martes por la tarde en casa de De Leus. El día en que daba su curso matutino en Vincens. Y en los buenos días de Leus iba a Duisón, aunque evitaba la borde. Dos se cuenta una escena. Durante una comida en Duisón, llaman de la clínica para avisar de que un paciente ha incendiado la capilla y ha huido al bosque.
+
+[15:10]
+De los palidece y pregunta a Donati cómo puede soportar a esos esquizos. Sobre cómo se escribía dos, los autores hablaron después. Aunque de los decía que la fabricación del manuscrito era un secreto.
+
+[15:27]
+12 reúne sus declaraciones. de los Cada uno trabajaba como una incrustación o una cita en el texto de los Hasta que en algún momento ya no sabían quién había escrito qué. Era escritura y variación.
+
+[15:46]
+La condición para trabajar en pareja era un fondo compartido, implícito e inexplicable, que los hacía reír o inquietarse, sentir repulsión o entusiasmo ante las mismas cosas. Quattari, somos muy distintos. Yo soy más bien un comando conceptual al que le gusta visitar tierras extranjeras. Gilles es un peso pesado filosófico con toda una administración bibliográfica.
+
+[16:16]
+Y una regla de con conversación que 12 recoge y que vale la pena guardar para cuando el texto parezca disparatado. Si uno de los dos decía que el centro de la Tierra está hecho de mermelada de frambuesa, el papel del otro no era discutirlo, sino encontrar cómo hacer funcionar esa idea. De los describió el reparto de otra manera a su traductor japonés.
+
+[16:42]
+Félix es el océano en movimiento perpetuo. Salta de una cosa a otra, no duerme, no se detiene. Yo soy la colina, muy poco movimiento, incapaz de hacer dos cosas a la vez. Sus ideas son diseños o diagramas. A mí me interesan los conceptos. Y reconoció en 1972 que en terrenos importantes antes iba por detrás.
+
+[17:09]
+Él trabajaba solo con conceptos, con bastante timidez y Félix ya le había hablado de lo que llamaba máquinas deseantes, con toda una concepción teórica y práctica del inconsciente como máquina, del inconsciente esquizofrénico. 12. Lo resume en una frase que me parece justa. La idea de máquina de Watari reemplazó la idea de estructura y le dio a De los una salida de la estructura.
+
+[17:37]
+pluralismo, que ya estaba buscando en lógica del sentido. Dos aportes más completan el cuadro del taller de escritura. El primero es la clínica. Dos se insiste en que es absurdo decir, como se dijo al publicarse el libro, que los autores no tenían relación con la práctica psicoanalítica. Guattari le enviaba a de los sueños de sus pacientes con interpretaciones que salían del marco familiar.
+
+[18:07]
+Le mandó en noviembre de 1970 una carta confidencial de una paciente sobre la sexualidad femenina y seguía teniendo tres años después del libro 30 o 35 pacientes en análisis. El segundo aporte son los etnólogos.
+
+[18:26]
+Para el tercer capítulo que se mide con Levi Strauss de los rompió su regla de trabajar solo y aceptó que Watari consultara para tres africanistas amigos, Michelle Carter, Alfred Adler y Andreas Semplini, que habían escrito en 1971 un artículo sobre un mito Dogon que relegaba a Edipo casi a nada.
+
+[18:53]
+12 cita de Leus, teníamos que rodear a Levi Strauss a través de sus discípulos, incluso por la fuerza y creo que lo que lo logramos. Esos amigos le hicieron leer a Griaule, a Meyer Fortes y a Pierre Claustre. Para el capítulo primero esto importa poco, pero conviene saberlo. El libro no se escribió en una torre. Hay que decir una palabra sobre Lacan, porque es el gran ausente presente de todo el libro.
+
+[19:21]
+Según 12, cuando Lacan supo que su discípulo preparaba un libro con Deleuze en a quien admiraba, se inquietó y pidió ver el manuscrito. Guattari se negó escudándose en que Deleuze solo mostraba manuscritos terminados. 12 cita. Deleuze desconfiaba de Lacan como de la peste.
+
+[19:47]
+Lacan pidió entonces encontrarse con Deleuze, que consideró que bastaba una llamada telefónica. Lacan invitó a Guattari a un restaurante caro a orillas del Sés para sonsacarle el contenido del libro. Guattari se lo contó temiendo lo peor y se sorprendió de una reacción enteramente positiva con una frase que se hizo célebre.
+
+[20:16]
+Lo que me importa es que el análisis exista. Pero cuando Lacan descubrió la agresividad del libro contra sus ideas, se rompieron todos los puentes. Prohibió a los miembros de su escuela discutirlo, guardó silencio en el seminario y cuando aludió a él más tarde, trató a los autores, según Hay que retener la paradoja, quedó se formula bien.
+
+[20:45]
+Watari no se había propuesto atacar a Lacan sino ir más lejos que él. En su origen, el Edipo fue concebido una manera de hacer avanzar las ideas lacanianas. Veremos en el capítulo primero cuánto le deben y en qué punto exacto se separan. El final.
+
+[21:04]
+En agosto de 1971, los dos organizaron una última sesión larga de trabajo en Brookes Surmer, en la Bahía de Tolón con sus familias en una casa cerca de la playa. El manuscrito se terminó el 31 de diciembre de 1900 12 cita una carta de Deleus a Watari.
+
+[21:28]
+Nuestro libro concluye delicadamente el 30 y 1 de diciembre, lo que indica claramente que los finales son también comienzos. El libro apareció en marzo de 1972 y según 12 se agotó en 3 días. Watari no lo vivió como un triunfo. 12 cita su diario. Se siente vacío. Quisiera hacerse una bola homo y librarse de toda esa política de presencia y prestigio.
+
+[21:58]
+Le reprocha a Gills haberlo arrastrado a ese lío. No se reconoce del todo en el libro, se siente un poco sobrecodificado por el anti Edipo. Porque Gills pensaba siempre en la obra y no podía dejar las cosas en estado de notas. Esa confesión dice algo sobre el texto que vamos a leer. Su acabado, su prosa cerrada y afirmativa es de Deleuze.
+
+[22:27]
+Su materia volcánica, sus intuiciones clínicas y políticas vienen en gran medida de Guattari. No se puede separar lo uno de lo otro, pero se puede escuchar la tensión. Unas palabras sobre la recepción, porque el libro llegó en un clima preciso. Estamos a 4 años de mayo del 68, con el izquierdismo todavía vivo.
+
+[22:51]
+Dos se recuerda que el 4 de marzo de 1972, Cactus, el mes de la publicación, 200 000 personas asistieron al entierro del maoísta Pierre Oueney. Lemonde le dedicó dos páginas. François Châtelet, amigo de de Leus en Vincennes, lo saludó como un nuevo Lucrecio.
+
+[23:13]
+Foucault lo llamó más que un libro, un acontecimiento y en el prólogo a la edición norteamericana de 1970 lo definió como el primer libro de ética escrito en Francia en mucho tiempo, una introducción a la vida no fascista. Liotard advirtió contra lectura de la lectura del título como polémica destructiva. El libro es una afirmación.
+
+[23:35]
+Del lado psicoanalítico, André Green concedió el mérito de haber superado la idea lacaniana del inconsciente estructurado como lenguaje y de volver a hablar de afectos y pulsiones.
+
+[23:50]
+Este, pero eh que toca confundir la experiencia de satisfacción con el deseo, que siempre carece de su objeto, equivalía a negar toda la experiencia clínica y acuñó la fórmula el anti Edipo es un ante Edipo, una regresión al Freud anterior a Freud. Elizabeth Roudinesco, desobedeciendo la censura de Lacan, lo reseñó como una muy bella novela.
+
+[24:20]
+la más bella apología posible del complejo de Edipo y reprochó a los autores haber errado el blanco con Lacan, tan lúcido como ellos sobre Edipo. René Girar dijo que el libro era edípico hasta la médula por estar estructurado como una rivalidad triangular con los teóricos del psicoanálisis. Y en labor de lugar de nacimiento de muchas de sus tesis, la publicación fue según Jean Uri un no acontecimiento.
+
+[24:50]
+No, no lo discutimos. Cierro la historia con el balance de los propios autores. En 1980 de los le dijo a Catherine Clement que el Anta-cadipo había sido un fracaso total en la medida en que era un libro post 68 y la reacción conservadora había ganado. Pero en los años siguientes sostuvo que tres de sus tesis seguían intactas. El inconsciente no es un teatro sino una fábrica.
+
+[25:19]
+La enfermedad mental no es lo que el psicoanálisis dice, porque lo que delira no es la familia, sino el mundo. Y el deseo construye agenciamientos. Y corrigió dos lecturas que consideraba erróneas y que su propio libro había alentado. La del esquizofrénico como figura intrínsecamente liberadora y la del deseo como espontaneidad. Dos se cita su frase del abecedario.
+
+[25:46]
+Este libro es extremadamente prudente, no se conviertan en ruinas. Nos aterraba producir productos de hospital. Y cita también la broma que les costó cara. En el libro dicen que nunca han visto un esquizofrénico. Una psiquiatra agresiva le preguntó a The Lost si había visto alguno. Él respondió, "Yo, jamás." Y ella lo publicó como confesión.
+
+[26:13]
+Conviene llegar al capítulo primero con esas dos correcciones en la mano. Porque es el capítulo donde la celebración del esquizo suena más fuerte y donde más fácil es entenderla mal. Umbral, ¿qué saber antes de la página 11? Antes de entrar Cuatro advertencias de lectura que son al mismo tiempo cuatro premisas que el oyente suele traer y que el libro desarma.
+
+[26:41]
+Primera, el anti Edipo no es un libro contra el psicoanálisis en bloque. Lo que atacan los autores es una operación precisa, la reducción de todas las producciones del inconsciente al triángulo papá mamayo y lo hacen desde dentro, reconociendo al psicoanálisis el descubrimiento que después traicionó. En el capítulo primero lo lo dirán con todas las letras.
+
+[27:09]
+El gran descubrimiento del psicoanálisis fue el de la producción deseante, de las producciones del inconsciente. Página 31. Y reconocerán hallazgos decisivos antes de señalar dónde se detienen. El libro es, en ese sentido, una crítica interna y entenderlo como un rechazo del inconsciente. consciente es perderse la mitad.
+
+[27:36]
+Segunda, el el libro no celebra la esquizofrenia clínica. Distingue con insistencia el proceso esquizofrénico que es su objeto del esquizofrénico de hospital al que llama andrajo autistizado y al que considera el resultado de la interrupción del proceso no su realización. Volveremos a esto muchas veces porque que es la tesis que protege al libro de su lectura más frecuente.
+
+[28:07]
+Sí. Tercera. Cuando el libro dice deseo, no quiere decir querer algo que falta. Esa definición, que es la del sentido común y también la del psicoanálisis, es exactamente lo que el capítulo primero va a combatir. Deseo, en este libro, significa producción. Un conjunto de operaciones materiales e inconscientes que producen lo real.
+
+[28:34]
+Si el oyente conserva el sentido corriente de la palabra, no entenderá ninguna frase. Cuarta. Cuando el libro dice, "máquina", no es una metáfora. Lo repiten desde la primera página. Una máquina es un sistema de corte sobre flujos. El seno es una máquina que produce leche y la boca es una máquina acoplada a ella.
+
+[28:58]
+Lo maquínico no es lo mecánico, no se trata de piezas en un todo cerrado sino de acoplamientos entre cortes y flujos. Si el oyente lee máquina como imagen, el libro le parecerá una colección de ocurrencias. Si lo lee al pie de la letra, le parecerá una ontología. Conviene además tener presentes tres tradiciones que el capítulo cruza sin anunciarlas.
+
+[29:25]
+Del lado del psicoanálisis, Freud, el Lacan, de las cadenas significantes y el objeto y Klein con sus objetos parciales. Del lado de Marx, los manuscritos de 1844 con su idea de la naturaleza como producción y de la vida genérica del hombre y los tres libros de El capital con el fetichismo y el capital como cuasi causa que parece producir lo que solo registra.
+
+[29:56]
+Y del lado de la filosofía de de Louis, Kant con su síntesis y su definición de el deseo, Espinosa con su sustancia única y su pregunta por la servidumbre voluntaria. Y Nietzsche, leído por Klosowski. El capítulo nunca presenta a estos interlocutores. Lo supone. Mi trabajo en lo que sigue será presentarlos que cada vez que aparezcan.
+
+[30:25]
+Una última orientación sobre la arquitectura. El libro tiene cuatro capítulos y un apéndice. El primero, el nuestro, se titula Las máquinas deseantes y ocupa las páginas 11 a 54. Es el capítulo de los conceptos. Expone la producción deseante, el cuerpo sin órganos y las tres síntesis del inconsciente.
+
+[30:52]
+Y adelanta en forma de anuncio todo lo que vendrá. El segundo, psicoanálisis y familiarismo, es la crítica sistemática de Edipo. El tercero, salvajes, bárbaros, civilizados, es la historia universal de los cuerpos llenos, la tierra, el déspota y el capital. El cuarto, Introducción al esquizoanálisis, formula las tareas de la práctica que proponen.
+
+[31:21]
+El capítulo primero tiene seis secciones. La producción deseante, el cuerpo sin órganos, el sujeto y el goce, psiquiatría materialista, las máquinas y el todo y las partes. Las tres primeras exponen las tres

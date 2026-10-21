@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>audioedipo</title>
+    <meta name="description" content="Reproductor de capítulos del ensayo de lectura de El Anti-Edipo, con índice, páginas, citas y transcripción.">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icons/icono-192.png" type="image/png">
+    <link rel="apple-touch-icon" href="icons/icono-180.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="audioedipo">
+    <link rel="stylesheet" href="css/app.css">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+</head>
+<body>
+<div class="app">
+
+    <header class="cabecera">
+        <button class="marca" id="marca" title="Recargar">audioedipo</button>
+        <div class="estado-audio" id="estado-audio"></div>
+    </header>
+
+    <section class="cabeza-cap" aria-labelledby="titulo-cap">
+        <div class="cabeza-cap-in">
+            <h1 class="titulo-cap" id="titulo-cap">Cargando capítulo…</h1>
+            <p class="subtitulo-cap" id="subtitulo-cap"></p>
+        </div>
+    </section>
+
+    <section class="reproductor" id="reproductor" aria-label="Reproductor">
+        <div class="franja" id="franja" role="slider" tabindex="0"
+             aria-label="Posición en el capítulo" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0">
+            <div class="franja-escuchado" id="franja-escuchado"></div>
+            <div class="franja-sondeo" id="franja-sondeo" hidden></div>
+            <div class="franja-cursor" id="franja-cursor"></div>
+        </div>
+
+        <div class="lectura">
+            <div class="lectura-tiempo" id="tiempo"><strong>0:00:00</strong> <span>/ 0:00:00</span></div>
+            <div class="miga" id="miga"></div>
+        </div>
+
+        <div class="transporte">
+            <button id="btn-tramo-ant" title="Tramo anterior ( [ )" aria-label="Tramo anterior">
+                <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="2" y="3" width="2" height="10"/><path d="M14 3v10L5 8z"/></svg>
+                <span class="lbl-largo">Tramo</span>
+            </button>
+            <button id="btn-bloque-ant" title="Bloque anterior (Mayús + ←)" aria-label="Bloque anterior">‹ <span class="lbl-largo">Bloque</span></button>
+            <button id="btn-menos" title="Retroceder 30 segundos (←)" aria-label="Retroceder 30 segundos">−30</button>
+            <button id="btn-play" class="btn-play" title="Reproducir o pausar (espacio)">
+                <svg viewBox="0 0 16 16" aria-hidden="true" id="ico-play"><path d="M4 2.5v11L13.5 8z"/></svg>
+                <svg viewBox="0 0 16 16" aria-hidden="true" id="ico-pausa" hidden><rect x="3.5" y="2.5" width="3" height="11"/><rect x="9.5" y="2.5" width="3" height="11"/></svg>
+                <span id="lbl-play" class="lbl-largo">Reproducir</span>
+            </button>
+            <button id="btn-mas" title="Avanzar 30 segundos (→)" aria-label="Avanzar 30 segundos">+30</button>
+            <button id="btn-bloque-sig" title="Bloque siguiente (Mayús + →)" aria-label="Bloque siguiente"><span class="lbl-largo">Bloque</span> ›</button>
+            <button id="btn-tramo-sig" title="Tramo siguiente ( ] )" aria-label="Tramo siguiente">
+                <span class="lbl-largo">Tramo</span>
+                <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2 3v10l9-5z"/><rect x="12" y="3" width="2" height="10"/></svg>
+            </button>
+            <button id="btn-velocidad" class="btn-velocidad" title="Velocidad de reproducción">1×</button>
+        </div>
+
+        <div class="carga" id="carga" hidden>
+            <p id="carga-msg">El audio de este capítulo no está guardado en este dispositivo.</p>
+            <div class="progreso" id="carga-progreso" hidden><div></div></div>
+            <div class="carga-acciones">
+                <button class="principal" id="btn-drive">Descargar de Drive</button>
+                <button id="btn-local">Abrir desde el equipo</button>
+                <button id="btn-cancelar" hidden>Cancelar</button>
+            </div>
+            <input type="file" id="archivo-local" accept="audio/*,.mp3" hidden>
+        </div>
+    </section>
+
+    <main class="cuerpo">
+        <aside class="panel">
+            <div class="pestanas" role="tablist" id="pestanas">
+                <button role="tab" aria-selected="true" data-vista="indice">Índice</button>
+                <button role="tab" aria-selected="false" data-vista="paginas">Páginas</button>
+                <button role="tab" aria-selected="false" data-vista="citas">Citas</button>
+                <button role="tab" aria-selected="false" data-vista="texto" class="solo-movil">Texto</button>
+            </div>
+            <div class="vista" id="vista-indice" role="tabpanel"><ul class="indice" id="indice"></ul></div>
+            <div class="vista" id="vista-paginas" role="tabpanel" hidden>
+                <p class="paginas-ayuda">Páginas de la edición de Paidós (trad. Francisco Monge). Elige una para ver dónde se comenta.</p>
+                <div class="rejilla" id="rejilla"></div>
+                <ul class="momentos" id="momentos"></ul>
+            </div>
+            <div class="vista" id="vista-citas" role="tabpanel" hidden><ul class="citas" id="citas"></ul></div>
+            <div class="atajos">
+                <span><kbd>espacio</kbd> reproducir</span>
+                <span><kbd>←</kbd><kbd>→</kbd> 30 s</span>
+                <span><kbd>Mayús</kbd> + <kbd>←</kbd><kbd>→</kbd> bloque</span>
+                <span><kbd>[</kbd><kbd>]</kbd> tramo</span>
+            </div>
+        </aside>
+
+        <section class="texto" id="texto" aria-label="Transcripción">
+            <div class="texto-barra">
+                <input type="search" id="buscar" placeholder="Buscar en la transcripción" aria-label="Buscar en la transcripción">
+                <span class="cuenta" id="buscar-cuenta"></span>
+                <button id="buscar-ant" aria-label="Coincidencia anterior" hidden>‹</button>
+                <button id="buscar-sig" aria-label="Coincidencia siguiente" hidden>›</button>
+            </div>
+            <div class="transcripcion" id="transcripcion">
+                <p class="aviso-transcripcion">Transcripción automática con nombres propios corregidos. Puede tener errores; los tiempos son aproximados a pocos segundos.</p>
+                <div id="bloques"></div>
+                <button class="volver" id="volver" hidden>Volver al punto actual</button>
+            </div>
+        </section>
+    </main>
+</div>
+
+<audio id="audio" preload="auto"></audio>
+
+<script src="js/config.js"></script>
+<script src="js/nucleo.js"></script>
+<script src="js/almacen.js"></script>
+<script src="js/drive.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
