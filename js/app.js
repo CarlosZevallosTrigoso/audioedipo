@@ -29,7 +29,7 @@
         coincidencias: [],
         coincidenciaActual: -1,
         descarga: null,     // AbortController
-        driveOk: false,
+        drive: 'cargando',  // 'cargando' | 'listo' | 'fallo'
         vista: 'indice',
     };
 
@@ -153,7 +153,6 @@
         barra.hidden = fase !== 'descargando';
         if (fase === 'inicial') {
             msg.textContent = 'El audio de este capítulo no está guardado en este dispositivo. Descárgalo una vez y quedará disponible sin conexión.';
-            $('btn-drive').disabled = !window.DRIVE_CONFIG;
         } else if (fase === 'descargando') {
             msg.textContent = info || 'Conectando con Drive…';
         } else if (fase === 'error') {
@@ -173,20 +172,29 @@
     }
 
     function iniciarDrive() {
-        Drive.init(window.DRIVE_CONFIG).then(ok => {
-            estado.driveOk = ok;
-            if (!ok && !estado.audioListo) {
-                $('btn-drive').disabled = true;
-                $('btn-drive').title = 'No se pudo cargar el inicio de sesión de Google';
-            }
+        estado.drive = 'cargando';
+        return Drive.init(window.DRIVE_CONFIG).then(ok => {
+            estado.drive = ok ? 'listo' : 'fallo';
+            return ok;
         });
     }
 
     async function descargarDeDrive() {
         const d = estado.cap.drive;
         if (!d || !d.fileId) return mostrarCarga('error', 'Este capítulo no tiene archivo de Drive configurado.');
-        if (!estado.driveOk) {
+        if (!window.DRIVE_CONFIG) {
+            return mostrarCarga('error', 'Falta la configuración de Google (js/config.js). Usa «Abrir desde el equipo».');
+        }
+        if (estado.drive === 'cargando') {
             return mostrarCarga('error', 'El inicio de sesión de Google todavía está cargando. Vuelve a pulsar «Descargar de Drive» en unos segundos.');
+        }
+        if (estado.drive === 'fallo') {
+            // puede que el script de Google haya llegado tarde: se reintenta
+            mostrarCarga('error', 'Preparando el inicio de sesión de Google…');
+            const ok = await iniciarDrive();
+            return mostrarCarga('error', ok
+                ? 'Listo. Pulsa otra vez «Descargar de Drive».'
+                : 'No se pudo cargar el inicio de sesión de Google. Revisa la conexión y recarga la página, o usa «Abrir desde el equipo».');
         }
         // ensureToken va antes de cualquier await: el navegador solo deja
         // abrir la ventana de Google si viene directo del clic.
@@ -202,7 +210,7 @@
             usarBlob(blob, 'drive');
             if (!guardado) avisoNoGuardado();
         } catch (e) {
-            if (e.name === 'AbortError') return mostrarCarga('inicial');
+            if (e.name === 'AbortError' || e.code === 'cancelled') return mostrarCarga('inicial');
             console.error('[Drive]', e);
             mostrarCarga('error', mensajeDrive(e));
         } finally {
@@ -736,7 +744,10 @@
         $('btn-drive').addEventListener('click', descargarDeDrive);
         $('btn-local').addEventListener('click', () => $('archivo-local').click());
         $('archivo-local').addEventListener('change', ev => abrirLocal(ev.target.files[0]));
-        $('btn-cancelar').addEventListener('click', () => { if (estado.descarga) estado.descarga.abort(); });
+        $('btn-cancelar').addEventListener('click', () => {
+            Drive.cancelarPendiente();
+            if (estado.descarga) estado.descarga.abort();
+        });
 
         document.querySelectorAll('#pestanas button').forEach(b => b.addEventListener('click', () => mostrarVista(b.dataset.vista)));
 

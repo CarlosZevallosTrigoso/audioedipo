@@ -2,7 +2,7 @@
 // Red primero para todo lo propio (así los cambios llegan apenas hay
 // conexión) y copia en caché como respaldo. No toca el audio, que
 // vive en su propia caché (js/almacen.js), ni las peticiones a Google.
-const SHELL = 'audioedipo-shell-v1';
+const SHELL = 'audioedipo-shell-v2';
 const ARCHIVOS = [
     './', 'index.html', 'css/app.css',
     'js/config.js', 'js/nucleo.js', 'js/almacen.js', 'js/drive.js', 'js/app.js',

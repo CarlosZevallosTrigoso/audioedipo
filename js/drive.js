@@ -55,7 +55,7 @@ const Drive = (() => {
         if (!isConfigured()) return false;
 
         try {
-            await waitFor(() => typeof google !== 'undefined' && google.accounts && google.accounts.oauth2);
+            await waitFor(() => typeof google !== 'undefined' && google.accounts && google.accounts.oauth2, 20000);
         } catch (e) {
             emit('error', { code: 'gis_unavailable', message: 'No se pudo cargar Google Identity (¿sin conexión?)' });
             return false;
@@ -109,6 +109,13 @@ const Drive = (() => {
                 reject(e);
             }
         });
+    }
+
+    // Descarta una petición de token que quedó colgada (en iOS la ventana
+    // de Google puede cerrarse sin que llegue respuesta).
+    function cancelarPendiente() {
+        const p = pending; pending = null;
+        if (p) p.reject(Object.assign(new Error('Inicio de sesión cancelado'), { code: 'cancelled' }));
     }
 
     async function ensureToken() {
@@ -176,6 +183,6 @@ const Drive = (() => {
 
     return {
         init, on, isConfigured, wasConnected, hasValidToken,
-        requestToken, ensureToken, disconnect, download,
+        requestToken, ensureToken, cancelarPendiente, disconnect, download,
     };
 })();
